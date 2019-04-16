@@ -1,0 +1,45 @@
+PODS:
+  - BioPass (2.3.1):
+    - PromiseKit (~> 6.0)
+    - Valet (~> 3.0)
+  - Flutter (1.0.0)
+  - flutter_biopass (0.0.1):
+    - BioPass (~> 2.0)
+    - Flutter
+  - PromiseKit (6.8.4):
+    - PromiseKit/CorePromise (= 6.8.4)
+    - PromiseKit/Foundation (= 6.8.4)
+    - PromiseKit/UIKit (= 6.8.4)
+  - PromiseKit/CorePromise (6.8.4)
+  - PromiseKit/Foundation (6.8.4):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (6.8.4):
+    - PromiseKit/CorePromise
+  - Valet (3.2.3)
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_biopass (from `.symlinks/plugins/flutter_biopass/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BioPass
+    - PromiseKit
+    - Valet
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_biopass:
+    :path: ".symlinks/plugins/flutter_biopass/ios"
+
+SPEC CHECKSUMS:
+  BioPass: 28dc2320b08e5edd55a2482e0c4964fe59178f3c
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_biopass: 7a5969489b5ed0cd1672af6ad5850043fbed6167
+  PromiseKit: 51794a832647e7b819336dc2279039ce9f1cc49b
+  Valet: 4af0382d4a94db5c7861504f751884f653437d24
+
+PODFILE CHECKSUM: d231b65d6bea6d24555f84ca7901720538b5791f
+
+COCOAPODS: 1.6.1
