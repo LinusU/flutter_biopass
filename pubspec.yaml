@@ -1,6 +1,6 @@
 name: flutter_biopass
 description: Store a password behind biometric authentication.
-version: 0.0.1
+version: 0.1.0
 author: Linus Unnebäck <linus@folkdatorn.se>
 homepage: https://github.com/LinusU/flutter_biopass
 

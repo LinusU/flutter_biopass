@@ -3,7 +3,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'flutter_biopass'
-  s.version          = '0.0.1'
+  s.version          = '0.1.0'
   s.summary          = 'Store a password behind biometric authentication.'
   s.description      = <<-DESC
 Store a password behind biometric authentication.
